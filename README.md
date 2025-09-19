@@ -1,4 +1,4 @@
-# ML_CW2
+# Reproducibility of Research paper within Machine learning
 Test the claims of the Active Learning on a Budget: Opposite Strategies Suit High and Low Budgets paper
 
 # Unsupervised Classification with SimCLR and SCAN
